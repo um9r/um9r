@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">A Passionate Frontend Developer | Building seamless user experiences with modern web technologies | React, Next.js, and beyond 🚀</h3>
 
-- 🔭 I’m currently working on [AI Powered Movie App](https://github.com/um9r/filmpire-rose)
+- 🔭 I’m currently working on [DevFlow App](https://github.com/um9r/devflow)
 
 - 🌱 I’m currently learning **Backend Development**
 
